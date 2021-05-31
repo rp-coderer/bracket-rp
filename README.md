@@ -115,7 +115,7 @@ Optional.
 
 Everything after the `;` would be identified as decorrative.
 
-It is required to **only contain one word and must me captitalized**.
+It is required to **only contain one word and must be captitalized**.
 
 If your string contains one word, it must be broken down to one and must be placed on other RP lines.
 
